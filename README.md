@@ -30,10 +30,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `< Windows / Linux / Mac / Android >`.
 * Você tem que ter `< Uma IDE para personalizar como o: Visual Studio ou Brackets >`.
 
-```
-
 ## 📫 Contribuindo para <Vista Vc - Projeto SAEP>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+<br>
 Para contribuir com <Vista Vc - Projeto SAEP>, siga estas etapas:
 
 1. Procure no instagram @thgigabit.
