@@ -6,3 +6,12 @@ body{
     background-color: black;
     color: white;
 }
+
+.wrap-input {
+    justify-content: center;
+    padding: 0 5px;
+    display: flex;
+    align-items: center;
+    
+}
+
