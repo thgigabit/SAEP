@@ -2,8 +2,11 @@
 `Site Criado no Conceito Avaliativo`
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+# Site Vista Vc - Projeto SAEP
+`Site Criado no Conceito Avaliativo`
+### Ajustes e melhorias
 
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 - [x] Montagem do Rodapé
 - [x] Informações e atualizzações de estrutura
 - [x] Atribuir Imagens do Rodapé
@@ -11,6 +14,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criar uma tela de login
 - [ ] Atribuir telad e Favoritos
 - [ ] Personalizar página de favoritos.
+
+- [x] Montagem do Rodapé
+- [x] Informações e atualizações de estrutura
+- [x] Atribuir Imagens do Rodapé
+- [ ] Criar Cabeçalho com os menus e link's
+- [ ] Entrega do Projeto
 
 ## 💻 Pré-requisitos
 
@@ -35,4 +44,3 @@ Esse projeto está sob licença.
 <br><br>
 
 © Copyright 2023 -  Matheus F. All rights reserved
-
