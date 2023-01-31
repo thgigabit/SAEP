@@ -4,13 +4,18 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Montagem do Rodapé
-- [x] Informações e atualizzações de estrutura
-- [x] Atribuir Imagens do Rodapé
-- [X] Criar Cabeçalho com os menus e link's
-- [x] Criar uma tela de login
-- [ ] Atribuir tela de Favoritos
-- [ ] Personalizar página de favoritos.
+- [x] Montagem do Rodapé.
+- [x] Informações e atualizzações de estrutura.
+- [x] Atribuir Imagens do Rodapé.
+- [X] Criar Cabeçalho com os menus e link's.
+- [x] Criar uma tela de login.
+- [x] Atribuir tela de Favoritos.
+- [x] Personalizar página de favoritos.
+- [ ] Adicionar novos elementos de favoritos.
+- [ ] Acesso exclusivo através de login.
+- [ ] Criação de icons.
+
+
 
 ## 💻 Pré-requisitos
 

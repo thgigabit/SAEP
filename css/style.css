@@ -2,16 +2,55 @@ body{
     font-family: Segoe UI;  
 }
 
-.footer{
+
+
+footer{
     background-color: black;
+    height: auto;
+    width: 100vw;
+    padding-top: 30px;
     color: white;
+}
+
+.footer-top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 30px;
+
+}
+
+.footer-botton{
+    width: 100vw;
+    padding: 30px 0;
+    text-align: center;
 }
 
 .wrap-input {
     justify-content: center;
     padding: 0 5px;
     display: flex;
-    align-items: center;
-    
+    align-items: center;  
 }
 
+.coluna{
+    float: left;
+    width: 50%;
+}
+
+.coluna2{
+    float: left;
+    width: 25%;
+}
+
+.coluna3{
+    float: left;
+    width: 33.33%;
+}
+
+.row1{
+    content: "";
+    clear: both;
+    display: table;
+}
