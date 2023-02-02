@@ -1,5 +1,5 @@
-# Site Vista Vc - Projeto SAEP
-`Site Criado no Conceito Avaliativo`
+# Site Veste Vc
+`Site Criado no Conceito Avaliativo e Portifólio`
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -22,7 +22,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente do `< Google Chrome / Microsoft Edge / Firefox >`
-* Você tem uma máquina `< Windows / Linux / Mac / Android >`.
+* Você precisa ter uma máquina `< Windows / Linux / Mac / Android >`.
 * Você tem que ter `< Uma IDE para personalizar como o: Visual Studio ou Brackets >`.
 
 ## 📫 Contribuindo para <Vista Vc - Projeto SAEP>
